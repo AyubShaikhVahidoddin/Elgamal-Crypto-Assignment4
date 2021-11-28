@@ -76,4 +76,4 @@ Note: If g is a prime root of the prime number p, then g mod p, g^2 mod p, …, 
 
 Note: b * a^(-x) mod p = m * y^k * g^(-xk) = m * g^(xk) * g^(-xk) = m
 
-**THANK You So Muc Sir …. **
+**THANK You So Much Sir …. **
