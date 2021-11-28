@@ -30,13 +30,8 @@ Below are the screen shots of the C programm executed .
 ![Elgmal](https://user-images.githubusercontent.com/94394753/143781606-5ac170ec-dddf-4993-be51-7e5b65394891.png)
 
 
-![image](https://user-images.githubusercontent.com/94394753/143781489-c838e22b-980b-4b8a-a604-b3eafa788719.png)
+![Elgmal_1](https://user-images.githubusercontent.com/94394753/143781658-ed81a4d6-f2ad-4676-a63e-9d67ba513b12.png)
 
-
-
-![image](https://user-images.githubusercontent.com/94394753/143781495-0bc95c21-b577-4751-bd18-632c0e9ad075.png)
-
-![image](https://user-images.githubusercontent.com/94394753/143781498-70a5cabb-82c1-4d78-b82a-d1f92d43504c.png)
 
 ![image](https://user-images.githubusercontent.com/94394753/143781502-47b4a0b5-af78-4cf0-81c9-525fa3f785df.png)
 
