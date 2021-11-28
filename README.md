@@ -27,6 +27,7 @@ Also PDF doc. Explanation_Assignment_4_Elgamal_encryption_decryption_RollNum_CS2
 
 Below are the screen shots of the C programm executed . 
 
+![Elgmal](https://user-images.githubusercontent.com/94394753/143781606-5ac170ec-dddf-4993-be51-7e5b65394891.png)
 
 
 ![image](https://user-images.githubusercontent.com/94394753/143781489-c838e22b-980b-4b8a-a604-b3eafa788719.png)
