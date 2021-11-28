@@ -265,7 +265,7 @@ int main()
 
     uint64_t p,g,x,y;
 
-    uint64_t m = 9867;//9677;
+    uint64_t m = 9677;
 
     uint64_t upper = 100000;
     uint64_t lower = (upper-1000);
